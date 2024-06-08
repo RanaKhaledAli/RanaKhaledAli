@@ -10,6 +10,8 @@
 #### Hello! I'm Rana, a motivated and results-driven Data Analyst with a passion for uncovering insights from data and transforming them into actionable business strategies. With a solid foundation in data analysis and a keen interest in data science, I am actively seeking new opportunities to leverage my skills and grow in the field.
 
 
+
+
 # 🔍 About Me
 
 #### 🎓 Education: Bachelor's in Computer Science From El Shrouk Academy
