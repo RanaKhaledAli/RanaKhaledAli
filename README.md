@@ -7,17 +7,17 @@
 
 
 
-Hello! I'm Rana, a motivated and results-driven Data Analyst with a passion for uncovering insights from data and transforming them into actionable business strategies. With a solid foundation in data analysis and a keen interest in data science, I am actively seeking new opportunities to leverage my skills and grow in the field.
+#### Hello! I'm Rana, a motivated and results-driven Data Analyst with a passion for uncovering insights from data and transforming them into actionable business strategies. With a solid foundation in data analysis and a keen interest in data science, I am actively seeking new opportunities to leverage my skills and grow in the field.
 
 
-🔍 About Me
+# 🔍 About Me
 #### 🎓 Education: Bachelor's in Computer Science From El Shrouk Academy
-#### 💼 Current Role: Teaching Assistant in El Shrouk Academy
+#### 💼 Current Role: Teaching Assistant at El Shrouk Academy
 #### 🌐 Location: Cairo
 #### 📈 Skills: SQL, Python, Excel, Power BI, Data Visualization, Machine Learning, Statistical Analysis.
 #### 🚀 Future Goals: Transition into a Data Scientist role, focusing on advanced analytics and machine learning
 
-💡 Experience Highlights
+# 💡 Experience Highlights
 #### Data Analysis & Visualization: Good in extracting, cleaning, and analyzing large datasets to uncover trends and insights. Skilled in creating visually compelling dashboards and reports using Power BI and Tableau.
 #### Statistical Analysis: Strong understanding of statistical methods and their application in real-world scenarios. Experienced in hypothesis testing, regression analysis, and predictive modeling.
 #### Machine Learning: Hands-on experience with machine learning algorithms, including classification, regression, clustering, and recommendation systems.
@@ -32,13 +32,13 @@ Hello! I'm Rana, a motivated and results-driven Data Analyst with a passion for 
 - **Tools:** Python, NumPy, Pandas, Seaborn, scikit-learn
 - **Description:** Created a robust loan approval prediction system. The project started with data preprocessing to clean and prepare the dataset. Visualization techniques were employed to explore and understand the data, and a machine learning model was constructed to predict loan approval outcomes. This model aids in making informed decisions about loan approvals based on applicant data.
 
-🌟 Why Hire Me?
+# 🌟 Why Hire Me?
 Analytical Mindset: I have a natural curiosity for data and a strong analytical mindset, allowing me to derive meaningful insights and make data-driven decisions.
 Continuous Learner: I am committed to continuous learning and staying updated with the latest trends and technologies in data science.
 Problem Solver: I excel at identifying problems and implementing effective solutions, making me a valuable asset to any team.
 Team Player: I thrive in collaborative environments and enjoy working with cross-functional teams to achieve common goals.
 
-📬 Let's Connect!
+# 📬 Let's Connect!
 Email: ranakhaledali99@gmail.com
 LinkedIn: https://www.linkedin.com/in/rana-khaled-data-scientist/
 GitHub: github.com/rana-khaled-ali
