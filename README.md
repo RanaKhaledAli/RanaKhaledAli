@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranakhaledali&label=Profile%20views&color=0e75b6&style=flat" alt="ranakhaledali" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranakhaledali" alt="ranakhaledali" /></a> </p>
+
 
 
 Hello! I'm Rana, a motivated and results-driven Data Analyst with a passion for uncovering insights from data and transforming them into actionable business strategies. With a solid foundation in data analysis and a keen interest in data science, I am actively seeking new opportunities to leverage my skills and grow in the field.
