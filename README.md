@@ -11,20 +11,19 @@ Hello! I'm Rana, a motivated and results-driven Data Analyst with a passion for 
 
 
 🔍 About Me
-🎓 Education: Bachelor's in Computer Science From El Shrouk Academy
-💼 Current Role: Teaching Assistant in El Shrouk Academy
-🌐 Location: Cairo
-📈 Skills: SQL, Python, Excel, Power BI, Data Visualization, Machine Learning, Statistical Analysis.
-🚀 Future Goals: Transition into a Data Scientist role, focusing on advanced analytics and machine learning
+#### 🎓 Education: Bachelor's in Computer Science From El Shrouk Academy
+#### 💼 Current Role: Teaching Assistant in El Shrouk Academy
+#### 🌐 Location: Cairo
+#### 📈 Skills: SQL, Python, Excel, Power BI, Data Visualization, Machine Learning, Statistical Analysis.
+#### 🚀 Future Goals: Transition into a Data Scientist role, focusing on advanced analytics and machine learning
 
 💡 Experience Highlights
-Data Analysis & Visualization: Good in extracting, cleaning, and analyzing large datasets to uncover trends and insights. Skilled in creating visually compelling dashboards and reports using Power BI and Tableau.
-Statistical Analysis: Strong understanding of statistical methods and their application in real-world scenarios. Experienced in hypothesis testing, regression analysis, and predictive modeling.
-Machine Learning: Hands-on experience with machine learning algorithms, including classification, regression, clustering, and recommendation systems.
-Database Management: Expertise in SQL and database management, ensuring data integrity and optimizing queries for performance.
+#### Data Analysis & Visualization: Good in extracting, cleaning, and analyzing large datasets to uncover trends and insights. Skilled in creating visually compelling dashboards and reports using Power BI and Tableau.
+#### Statistical Analysis: Strong understanding of statistical methods and their application in real-world scenarios. Experienced in hypothesis testing, regression analysis, and predictive modeling.
+#### Machine Learning: Hands-on experience with machine learning algorithms, including classification, regression, clustering, and recommendation systems.
+#### Database Management: Expertise in SQL and database management, ensuring data integrity and optimizing queries for performance.
 
 🏆 Projects
-
 #### Villa Price Prediction
 - **Tools:** Python, NumPy, Pandas, Seaborn, scikit-learn
 - **Description:** Developed a sophisticated model to predict villa prices based on a variety of features. This project involved extensive data preprocessing, including handling missing values and feature scaling, followed by data visualization to understand patterns and correlations. The final model was built using machine learning techniques to provide accurate price predictions.
