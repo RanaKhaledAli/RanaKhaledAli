@@ -11,6 +11,7 @@
 
 
 # 🔍 About Me
+
 #### 🎓 Education: Bachelor's in Computer Science From El Shrouk Academy
 #### 💼 Current Role: Teaching Assistant at El Shrouk Academy
 #### 🌐 Location: Cairo
@@ -18,12 +19,14 @@
 #### 🚀 Future Goals: Transition into a Data Scientist role, focusing on advanced analytics and machine learning
 
 # 💡 Experience Highlights
+
 #### Data Analysis & Visualization: Good in extracting, cleaning, and analyzing large datasets to uncover trends and insights. Skilled in creating visually compelling dashboards and reports using Power BI and Tableau.
 #### Statistical Analysis: Strong understanding of statistical methods and their application in real-world scenarios. Experienced in hypothesis testing, regression analysis, and predictive modeling.
 #### Machine Learning: Hands-on experience with machine learning algorithms, including classification, regression, clustering, and recommendation systems.
 #### Database Management: Expertise in SQL and database management, ensuring data integrity and optimizing queries for performance.
 
-🏆 Projects
+# 🏆 Projects
+
 #### Villa Price Prediction
 - **Tools:** Python, NumPy, Pandas, Seaborn, scikit-learn
 - **Description:** Developed a sophisticated model to predict villa prices based on a variety of features. This project involved extensive data preprocessing, including handling missing values and feature scaling, followed by data visualization to understand patterns and correlations. The final model was built using machine learning techniques to provide accurate price predictions.
@@ -33,16 +36,18 @@
 - **Description:** Created a robust loan approval prediction system. The project started with data preprocessing to clean and prepare the dataset. Visualization techniques were employed to explore and understand the data, and a machine learning model was constructed to predict loan approval outcomes. This model aids in making informed decisions about loan approvals based on applicant data.
 
 # 🌟 Why Hire Me?
-Analytical Mindset: I have a natural curiosity for data and a strong analytical mindset, allowing me to derive meaningful insights and make data-driven decisions.
-Continuous Learner: I am committed to continuous learning and staying updated with the latest trends and technologies in data science.
-Problem Solver: I excel at identifying problems and implementing effective solutions, making me a valuable asset to any team.
-Team Player: I thrive in collaborative environments and enjoy working with cross-functional teams to achieve common goals.
+
+#### Analytical Mindset: I have a natural curiosity for data and a strong analytical mindset, allowing me to derive meaningful insights and make data-driven decisions.
+#### Continuous Learner: I am committed to continuous learning and staying updated with the latest trends and technologies in data science.
+#### Problem Solver: I excel at identifying problems and implementing effective solutions, making me a valuable asset to any team.
+#### Team Player: I thrive in collaborative environments and enjoy working with cross-functional teams to achieve common goals.
 
 # 📬 Let's Connect!
-Email: ranakhaledali99@gmail.com
-LinkedIn: https://www.linkedin.com/in/rana-khaled-data-scientist/
-GitHub: github.com/rana-khaled-ali
-I'm excited to bring my expertise and enthusiasm for data analysis and data science to a dynamic and innovative team. Let's work together to turn data into actionable insights and drive business success!
+
+#### Email: ranakhaledali99@gmail.com
+#### LinkedIn: https://www.linkedin.com/in/rana-khaled-data-scientist/
+#### GitHub: github.com/rana-khaled-ali
+#### I'm excited to bring my expertise and enthusiasm for data analysis and data science to a dynamic and innovative team. Let's work together to turn data into actionable insights and drive business success!
 
 
 
