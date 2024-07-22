@@ -11,25 +11,23 @@
 #### 🎓 Education: Bachelor's in Computer Science From El Shrouk Academy
 #### 💼 Current Role: Teaching Assistant at El Shrouk Academy
 #### 🌐 Location: Cairo
-#### 📈 Skills: C#, ASP.NET, .NET Core, SQL, JavaScript, HTML, CSS, MVC, Entity Framework, LINQ, RESTful APIs
+#### 📈 Skills: C#, ASP.NET, .NET Core, SQL, JavaScript, HTML, MVC, Entity Framework, LINQ, RESTful APIs
 #### 🚀 Future Goals: Transition into a Senior Software Engineer role, focusing on full-stack development and cloud computing
 
 # 💡 Experience Highlights
 
-#### .NET Development: Proficient in building and maintaining web applications using ASP.NET and .NET Core. Experienced in developing APIs, integrating with databases, and ensuring code quality through best practices.
-#### Frontend Development: Skilled in creating responsive and user-friendly web interfaces using HTML, CSS, and JavaScript. Familiar with modern frontend frameworks and libraries.
-#### Database Management: Expertise in SQL and database management, ensuring data integrity and optimizing queries for performance.
-#### Problem Solving: Strong analytical and problem-solving skills with the ability to debug and resolve complex issues efficiently.
+#### .NET Development: Proficient in building and maintaining web applications using ASP.NET and .NET Core. Experienced in developing APIs and integrating with databases. Dedicated to ensuring code quality through best practices.
+#### Continuous Learner: Passionate about learning and staying updated with the latest trends and technologies in .NET development. Continuously improving my skills and knowledge.
+#### Database Management: Knowledgeable in SQL and database management, focusing on data integrity and optimizing queries for performance.
+#### Problem Solving: Strong analytical and problem-solving skills with a keen ability to debug and resolve complex issues efficiently.
+
 
 # 🏆 Projects
 
-#### E-Commerce Web Application
-- **Tools:** ASP.NET Core, Entity Framework, SQL Server, JavaScript, HTML, CSS
-- **Description:** Developed a full-featured e-commerce web application allowing users to browse products, add items to the cart, and complete purchases. Implemented user authentication, product management, and order processing functionalities. Utilized Entity Framework for database interactions and optimized performance through efficient query handling.
+#### Resturant-System-app
+- **Tools:** ASP.NET Core, SQL Server, HTML.
+- **Description:** Developed a restaurant management app with C#, SQL Server and ASP .Net, streamlining order processing and inventory.
 
-#### Online Learning Platform
-- **Tools:** ASP.NET MVC, SQL Server, jQuery, Bootstrap
-- **Description:** Created an online learning platform where instructors can upload courses and students can enroll and complete courses. Developed features including course management, user roles, and progress tracking. Ensured a responsive design for a seamless user experience across devices.
 
 # 🌟 Why Hire Me?
 
@@ -56,7 +54,6 @@
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </p>
 
