@@ -11,7 +11,7 @@
 #### 🎓 Education: Bachelor's in Computer Science From El Shrouk Academy
 #### 💼 Current Role: Teaching Assistant at El Shrouk Academy
 #### 🌐 Location: Cairo
-#### 📈 Skills: C#, ASP.NET, .NET Core, SQL, JavaScript, HTML, MVC, Entity Framework, LINQ, RESTful APIs
+#### 📈 Skills: C#, ASP.NET, .NET Core, SQL, JavaScript, HTML, CSS,MVC, Entity Framework, LINQ, RESTful APIs
 #### 🚀 Future Goals: Transition into a Senior Software Engineer role, focusing on full-stack development and cloud computing
 
 # 💡 Experience Highlights
